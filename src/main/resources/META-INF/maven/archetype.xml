@@ -1,0 +1,9 @@
+<archetype>
+  <id>java.quickstart</id>
+  <sources>
+    <source>src/main/java/Foo.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/FooTest.java</source>
+  </testSources>
+</archetype>
