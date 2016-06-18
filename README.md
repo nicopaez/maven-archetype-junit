@@ -18,7 +18,6 @@ mvn archetype:update-local-catalog
 
 Once installed, you can use it with the following command:
 
-
 ````
 mvn archetype:generate \
 -DarchetypeGroupId=com.nicopaez.tutorials \
@@ -26,7 +25,4 @@ mvn archetype:generate \
 -DarchetypeVersion=1.0.0
 ````
 
-
 For feedback or support you can contact nicopaez_at_computer.org
-
-
